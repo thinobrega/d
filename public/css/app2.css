@@ -1,0 +1,23 @@
+body {
+    background-image: url("CALACATTA BORGHINI 005R GLOSSY DONE WEB.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+}
+body h1, p ,h3,small{
+
+    color:blacck;
+}
+.info{
+    margin: auto;
+  
+  }
+
+  .form-group{
+color:black;
+
+  }
+  #id{
+color:black;
+
+  }
